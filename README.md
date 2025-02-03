@@ -1,4 +1,4 @@
-:wave: Hey, my name is Ryan Perkins and I am currently an AI Engineer at Capita - building AI-enabled software. Previously, I was an MSc. Computing Student at Imperial College London.
+:wave: Hey, my name is Ryan Perkins and I am currently an AI Engineer at Ten Lifestyle - building AI-enabled software. Previously, I was an MSc. Computing Student at Imperial College London.
 
 :sound::microscope: I have a strong interest in deep learning, particularly its application for consumer-facing solutions. Specifically, I have hands-on experience with diffusion models, completing my MSc. dissertation on their application for audio generation.
 
